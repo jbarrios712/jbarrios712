@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jbarrios712
 - 👀 I’m interested in Data Analytics and Business Intelligence
-- 🌱 I’m currently learning Python, Tableau and SQL
+- 🌱 I’m currently learning Python, MySQL, MongoDB, Databricks, Tableau, R.
 
 <!---
 jbarrios712/jbarrios712 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
